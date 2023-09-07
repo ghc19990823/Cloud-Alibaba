@@ -1,0 +1,17 @@
+server:
+  port: 1234
+
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+        register-enabled: true
+  application:
+    name: cloud-alibaba-nacos-payment
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

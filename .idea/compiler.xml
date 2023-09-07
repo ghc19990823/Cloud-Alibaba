@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Cloud-Alibaba-seata-account-2002" />
+        <module name="Cloud-Api-Commons" />
+        <module name="Cloud-Alibaba-Seata-2001" />
+        <module name="Cloud-Alibaba-Nacos" />
+        <module name="Cloud-Alibaba-Nacos-Payment" />
+        <module name="Cloud-Alibaba-Config-Nacos-Client3377" />
+        <module name="Cloud-Alibaba" />
+        <module name="Cloud-Alibaba-Custmer-9011" />
+        <module name="Cloud-Alibaba-consumer-order83" />
+        <module name="Cloud-Alibaba-Sentinel-service8001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Cloud-Alibaba-Nacos-Payment" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Cloud-Alibaba-Config-Nacos-Client3377" options="-parameters" />
+      <module name="Cloud-Alibaba-Custmer-9011" options="-parameters" />
+      <module name="Cloud-Alibaba-Nacos" options="-parameters" />
+      <module name="Cloud-Alibaba-Nacos-Payment" options="-parameters" />
+      <module name="Cloud-Alibaba-Seata-2001" options="-parameters" />
+      <module name="Cloud-Alibaba-Sentinel-service8001" options="-parameters" />
+      <module name="Cloud-Alibaba-consumer-order83" options="-parameters" />
+      <module name="Cloud-Alibaba-seata-account-2002" options="-parameters" />
+      <module name="Cloud-Api-Commons" options="-parameters" />
+    </option>
+  </component>
+</project>

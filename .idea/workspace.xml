@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7caaf411-9793-4bf5-900a-31be204902d6" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="mybatis" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="failureBehavior" value="FAST" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2UVZIso2ROJP1AwdukfX3e3arme" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="18" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CloudDome" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="库" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.36513546" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\Cloud-Alibaba\Cloud-Alibaba-Nacos\src\main\resources\resoucres" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Cloud-Alibaba\Cloud-Alibaba-Nacos\src\main\resources\MATE-INF\resources" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Cloud-Alibaba\Cloud-Alibaba-Nacos\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CloudAlibabaSeata2001Application">
+    <configuration name="CloudAlibabaConfigNacosClient3377Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Cloud-Alibaba-Config-Nacos-Client3377" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.cloudalibabaconfignacosclient3377.CloudAlibabaConfigNacosClient3377Application" />
+      <option name="ENABLE_LAUNCH_OPTIMIZATION" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudAlibabaConsumerOrder83Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Cloud-Alibaba-consumer-order83" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.cloudalibabaconsumerorder83.CloudAlibabaConsumerOrder83Application" />
+      <option name="ENABLE_LAUNCH_OPTIMIZATION" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudAlibabaCustmer9011Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Cloud-Alibaba-Custmer-9011" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.cloudalibabacustmer9011.CloudAlibabaCustmer9011Application" />
+      <option name="ENABLE_LAUNCH_OPTIMIZATION" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudAlibabaNacosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Cloud-Alibaba-Nacos" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.cloudalibabanacos.CloudAlibabaNacosApplication" />
+      <option name="ENABLE_LAUNCH_OPTIMIZATION" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudAlibabaSeata2001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Cloud-Alibaba-Seata-2001" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.cloudalibabaseata2001.CloudAlibabaSeata2001Application" />
+      <option name="ENABLE_LAUNCH_OPTIMIZATION" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudAlibabaSeataAccount2002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Cloud-Alibaba-seata-account-2002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.cloudalibabaseataaccount2002.CloudAlibabaSeataAccount2002Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudAlibabaSentinelService8001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Cloud-Alibaba-Sentinel-service8001" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.cloudalibabasentinelservice8001.CloudAlibabaSentinelService8001Application" />
+      <option name="ENABLE_LAUNCH_OPTIMIZATION" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudApiCommonsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Cloud-Api-Commons" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.cloudapicommons.CloudApiCommonsApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CloudAlibabaCustmer9011Application" />
+      <item itemvalue="Spring Boot.CloudAlibabaNacosApplication" />
+      <item itemvalue="Spring Boot.CloudAlibabaConsumerOrder83Application" />
+      <item itemvalue="Spring Boot.CloudAlibabaConfigNacosClient3377Application" />
+      <item itemvalue="Spring Boot.CloudAlibabaSentinelService8001Application" />
+      <item itemvalue="Spring Boot.CloudApiCommonsApplication" />
+      <item itemvalue="Spring Boot.CloudAlibabaSeata2001Application" />
+      <item itemvalue="Spring Boot.CloudAlibabaSeataAccount2002Application" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="7caaf411-9793-4bf5-900a-31be204902d6" name="变更" comment="" />
+      <created>1693026632886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693026632886</updated>
+      <workItem from="1693026634108" duration="2091000" />
+      <workItem from="1693031564572" duration="5197000" />
+      <workItem from="1693037868921" duration="3068000" />
+      <workItem from="1693040989437" duration="1534000" />
+      <workItem from="1693054592111" duration="7362000" />
+      <workItem from="1693112942057" duration="2611000" />
+      <workItem from="1693138476880" duration="2872000" />
+      <workItem from="1693196039285" duration="5957000" />
+      <workItem from="1693368680731" duration="4383000" />
+      <workItem from="1693466394232" duration="603000" />
+      <workItem from="1693749254090" duration="40000" />
+      <workItem from="1694065478325" duration="7010000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,28 @@
+server:
+  port: 2001
+
+spring:
+  application:
+    name: seata-order-service
+  cloud:
+    nacos:
+      alibaba:
+        seate:
+          tx-service-group: default
+      discovery:
+        server-addr: localhost:8848
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/ghc?useUnicode=true&characterEncoding=utf8&useSSL=false
+    username: root
+    password: 123456
+
+feign:
+  hystrix:
+    enabled: true
+
+mybaits:
+  mapper-location: classpath:mapper/*.xml
+  type-aliases-package: com.example.cloudalibabaseata2001.domain
+
+
